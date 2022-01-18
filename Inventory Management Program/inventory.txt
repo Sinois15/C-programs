@@ -1,0 +1,3 @@
+ID Name                     Stock  Price(RM)
+1  fe                       2      2.00   
+2  fe                       3      3.00   
